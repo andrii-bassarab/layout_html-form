@@ -5,7 +5,7 @@
   margin-top: 10px;
 }
 
-.form_field:first-of-type {
+.form_field:nth-child(2) {
   margin-top: 0;
 }
 
